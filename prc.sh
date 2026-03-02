@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in 1 2 3 4
+for i in 1 2 3 4 8
  do
     touch "file$i.txt"
  done
