@@ -17,4 +17,4 @@ Bash is essential for:
 
 If you work in **cloud or DevOps**, Bash is non-negotiable.
 
-***Learning and Exploring Coud Computing
+***Learning and Exploring Coud Computing***
